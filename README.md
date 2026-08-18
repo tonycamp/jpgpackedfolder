@@ -9,4 +9,4 @@ the jpgs are quick webp too
 but this can take half a hour for 100 files
 you check the code and if you like use...
 very cli file still now windows gui made.
-the dataset 2 got 40 trained passes of safetensors so the emma lea marcio pais compressed file goes to 9 Mb the same 100 arch  files
+the dataset 2 got 40 trained passes of safetensors so the emma lea marcio pais compressed file goes to 9 Mb the same 100 arch 80 quality files
