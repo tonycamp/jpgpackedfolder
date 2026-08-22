@@ -1,4 +1,2 @@
 # jpgpackedfolder
-folder packer cli qith parameters and source
-folder depacker cli with parameters and source
-v 13
+folderpacker cli with parameters and source v13, folderdepacker cli with parameters and source v13
